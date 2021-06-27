@@ -1,2 +1,5 @@
-/* import font family */
+/* import font from fonts.css file*/
 @import url(./fonts.css);
+
+/* CSS Variables */
+@import url(./partials/_variables.css);
